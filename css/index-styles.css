@@ -2,7 +2,18 @@ header {
     font-family: helvetica;
 }
 
+body {
+    width: 100vw;
+    margin: 0%;
+}
+
 .wisercreative-logo {
+    padding-left: 100px;
+    padding-top: 70px;
+    padding-bottom: 150px;
+}
+
+.wisercreative-footerlogo {
     padding-left: 100px;
     padding-top: 70px;
     padding-bottom: 150px;
@@ -13,4 +24,11 @@ h1 {
     font-size: 1em;
     letter-spacing: -0.3px;
     font-weight: normal;
+}
+
+footer {
+    padding: 0px;
+    height: 20em;
+    width: 100%;
+    background-color: black;
 }
